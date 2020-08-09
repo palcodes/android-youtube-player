@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1772573576/android-youtube-player.iml" filepath="$PROJECT_DIR$/.idea/modules/-1772573576/android-youtube-player.iml" group="android-youtube-player" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-287149070/chromecast-sender.iml" filepath="$PROJECT_DIR$/.idea/modules/-287149070/chromecast-sender.iml" group="android-youtube-player/chromecast-sender" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chromecast-sender-sample-app.iml" filepath="$PROJECT_DIR$/.idea/modules/chromecast-sender-sample-app.iml" group="android-youtube-player/chromecast-sender-sample-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-239247658/core.iml" filepath="$PROJECT_DIR$/.idea/modules/-239247658/core.iml" group="android-youtube-player/core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1678117589/core-sample-app.iml" filepath="$PROJECT_DIR$/.idea/modules/1678117589/core-sample-app.iml" group="android-youtube-player/core-sample-app" />
+    </modules>
+  </component>
+</project>

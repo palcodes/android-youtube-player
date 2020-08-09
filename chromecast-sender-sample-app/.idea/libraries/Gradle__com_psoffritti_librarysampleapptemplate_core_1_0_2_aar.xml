@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.psoffritti.librarysampleapptemplate:core:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1257764ba84b41b1fbf9d174c715c7a/core-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1257764ba84b41b1fbf9d174c715c7a/core-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1257764ba84b41b1fbf9d174c715c7a/core-1.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.psoffritti.librarysampleapptemplate/core/1.0.2/8d4c7ff4b3904f66db3d06db8c95651a0beac1f2/core-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.psoffritti.librarysampleapptemplate/core/1.0.2/dc8cc5ae09c81b77378ae857569e0c93368afe1/core-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
